@@ -1,5 +1,5 @@
 # Lane Detection using HoughLinesP in OpenCV Python
-This repository contains the code for a lane detection system implemented using the HoughLinesP function from the OpenCV library in Python. The system is able to detect lane lines in an image with a high level of accuracy.
+This repository contains the code for a lane detection system implemented using the HoughLinesP function from the OpenCV library in Python. You can read the entire blog [here](https://jrprasanna.com/2023/01/18/implementing-lane-detection-in-opencv-python-a-step-by-step-beginners-guide/)
 
 # Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
