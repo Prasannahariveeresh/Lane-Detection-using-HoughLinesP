@@ -19,7 +19,7 @@ You can install these libraries using pip:
 # Running the code
 The code for the lane detection system can be found in the file lane_detection.py. To run the code, simply navigate to the directory containing the file in your terminal and run the following command:
 
-  `python lane_detection.py`
+  `python detect.py`
 
 This will open the input image and display the output image with the detected lane lines drawn in green.
 
